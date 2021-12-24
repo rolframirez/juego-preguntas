@@ -1,0 +1,236 @@
+[
+  {
+    "categoria": "Dificultad Baja",
+    "pregunta": "¿Quién pintó la mona lisa?",
+    "respuesta": "Leonardo da Vinci",
+    "incorrecta1": "Picasso",
+    "incorrecta2": "Miguel Ángel",
+    "incorrecta3": "Monet",
+    "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "Dificultad Baja",
+    "pregunta": " ¿Cuál es el río más largo del mundo?",
+    "respuesta": "Amazonas",
+    "incorrecta1": "Nilo",
+    "incorrecta2": "Danibio",
+    "incorrecta3": "Ganges",
+    "imagen": "https://i.ibb.co/1zPL893/rio.jpg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "Dificultad Baja",
+    "pregunta": "¿Cuál es el país con más habitantes del mundo?",
+    "respuesta": "China",
+    "incorrecta1": "Colombia",
+    "incorrecta2": "En el País de nunca jamás",
+    "incorrecta3": "Brasil"
+  },
+  {
+    "categoria": "Dificultad Baja",
+    "pregunta": "¿Cuál es el himno de la Unión Europea?",
+    "respuesta": "Oda a la Alegría",
+    "incorrecta1": "Las cuatro estaciones",
+    "incorrecta2": "El Danubio azul.",
+    "incorrecta3": "Tocata y Fuga en Re menor"
+  },
+  {
+    "categoria": "Dificultad Baja",
+    "pregunta": "¿Dónde está Transilvania?",
+    "respuesta": "Rumania",
+    "incorrecta1": "Sur America",
+    "incorrecta2": "Francia",
+    "incorrecta3": "Rusia",
+    "imagen": "https://i.ibb.co/yNSHqVT/transil.jpg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "Dificultad Baja-Media",
+    "pregunta": "¿Quién fue el personaje menos preferido de Akira Toriyama?",
+    "respuesta": "Vegeta",
+    "incorrecta1": "Krillin",
+    "incorrecta2": "Goku",
+    "incorrecta3": "Mr Popo\r"
+  },
+  {
+    "categoria": "Dificultad Baja-Media",
+    "pregunta": "¿Cuándo llegó Cristóbal Colón a América?",
+    "respuesta": "1492",
+    "incorrecta1": "1942",
+    "incorrecta2": "1493",
+    "incorrecta3": "1411",
+    "imagen": "https://i.ibb.co/tMxQQzS/5fa4488c34c51.jpg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "Dificultad Baja-Media",
+    "pregunta": "Pintor de  \"El jardín de las delicias\"",
+    "respuesta": "El Bosco",
+    "incorrecta1": "Velásquez",
+    "incorrecta2": "Picasso",
+    "incorrecta3": "Dalí\r",
+    "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "Dificultad Baja-Media",
+    "pregunta": "significado de  \"El jardín de las delicias\"",
+    "respuesta": "Mundo Terrenal",
+    "incorrecta1": "Es Mejor Morir",
+    "incorrecta2": "Dios Es El Camino",
+    "incorrecta3": "Adán Y Eva\r",
+    "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "Dificultad Baja-Media",
+    "pregunta": "¿Cuál es el animal que más muertes provoca cada año?",
+    "respuesta": "Mosquito",
+    "incorrecta1": "Tiburon",
+    "incorrecta2": "Rata",
+    "incorrecta3": "Tigre"
+  },
+  {
+    "categoria": "Dificultad Baja-Media",
+    "pregunta": "Escritor de \"El viejo y el mar\"",
+    "respuesta": "Ernest Hemingway",
+    "incorrecta1": "Julio Verne",
+    "incorrecta2": "Gabriel García Márquez",
+    "incorrecta3": "Ernesto Sábato\r",
+    "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+  },
+  {
+    "categoria": "Dificultad Media",
+    "pregunta": "Vivía en el 221B de Backer Street.",
+    "respuesta": "Sherlock Holmes",
+    "incorrecta1": "Katniss Everdeen",
+    "incorrecta2": "Hermione Jean Granger",
+    "incorrecta3": "Harry James Potter \r",
+    "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg"
+  },
+  {
+    "categoria": "Dificultad Media",
+    "pregunta": "¿Cuántas notas musicales existen? con alteraciones",
+    "respuesta": "12",
+    "incorrecta1": "11",
+    "incorrecta2": "10",
+    "incorrecta3": "8"
+  },
+  {
+    "categoria": "Dificultad Media",
+    "pregunta": " ¿Cuál es la videoconsola más vendida de la historia?",
+    "respuesta": "La PlayStation 2",
+    "incorrecta1": "x box 360",
+    "incorrecta2": "Nintendo 64",
+    "incorrecta3": "Wii"
+  },
+  {
+    "categoria": "Dificultad Media",
+    "pregunta": "¿Cuál es la edad del Universo?.",
+    "respuesta": "13.800 millones de años.",
+    "incorrecta1": "3 millones de años",
+    "incorrecta2": "130 millones de años",
+    "incorrecta3": "1300 millones de años"
+  },
+
+  {
+    "categoria": "Dificultad Media",
+    "pregunta": "Cosa perdida que buscaba Marcel Proust.",
+    "respuesta": "El Tiempo",
+    "incorrecta1": "La Cabeza",
+    "incorrecta2": "Su Lengua",
+    "incorrecta3": "La Luz\r"
+  },
+  {
+    "categoria": "Dificultad Alta",
+    "pregunta": "Escritor de \"El túnel\"",
+    "respuesta": "Ernesto Sábato",
+    "incorrecta1": "Ernest Hemingway",
+    "incorrecta2": "Julio Verne",
+    "incorrecta3": "Gabriel García Márquez\r",
+    "imagen": "https://i.ibb.co/vdTD5sF/el-tunel.jpg"
+  },
+  {
+    "categoria": "Dificultad Alta",
+    "pregunta": "Autor de \"Moby Dick\"",
+    "respuesta": "Herman Melville",
+    "incorrecta1": "Ernesto Sábato",
+    "incorrecta2": "Ernest Hemingway",
+    "incorrecta3": "Julio Verne\r",
+    "imagen": "https://i.ibb.co/gVQXD5q/mobi.jpg"
+  },
+
+  {
+    "categoria": "Dificultad Alta",
+    "pregunta": "protagonista de \"El código Da Vinci\" de Dan Brown",
+    "respuesta": "Robert Langdom",
+    "incorrecta1": "Sherlock Holmes",
+    "incorrecta2": "Katniss Everdeen",
+    "incorrecta3": "Hermione Jean Granger\r",
+    "imagen": "https://i.ibb.co/hDzmpKG/code-da-vinci.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Dificultad Alta",
+    "pregunta": "Es el género más cultivado por los autores de la generación del 27",
+    "respuesta": "Poesía",
+    "incorrecta1": "Prosa",
+    "incorrecta2": "Suspenso",
+    "incorrecta3": "Terror\r",
+    "imagen": "https://i.ibb.co/qmrQJhM/27.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Dificultad Alta",
+    "pregunta": "¿Cuál es el idioma más antiguo de Europa que sigue usándose?",
+    "respuesta": "El vasco",
+    "incorrecta1": "Español",
+    "incorrecta2": "Latin",
+    "incorrecta3": "Ruso"
+  },
+  {
+    "categoria": "Dificultad Muy Alta",
+    "pregunta": "¿Quién fue la creadora  de Inuyasha?",
+    "respuesta": "Rumiko Takahashi",
+    "incorrecta1": "Satsuki Igarashi",
+    "incorrecta2": "Nagase Ohkawa",
+    "incorrecta3": "Mokona Apapa",
+    "imagen": "https://i.ibb.co/xX4d8R9/inuyasha.jpg",
+    "objectFit": "cover"
+  },
+  {
+    "categoria": "Dificultad Muy Alta",
+    "pregunta": "donde pertenece la colección de relatos folklóricos llamada Mabinogion",
+    "respuesta": "Gales",
+    "incorrecta1": "Alejandría",
+    "incorrecta2": "Londres",
+    "incorrecta3": "Irlanda Del Norte\r"
+  },
+  {
+    "categoria": "Dificultad Muy Alta",
+    "pregunta": "escribió la música del himno de la Comunidad de Valencia",
+    "respuesta": "José Serrano Simeón",
+    "incorrecta1": "Pedro Figueredo",
+    "incorrecta2": "Antonio Neumane",
+    "incorrecta3": "Ludwig Van Beethoven"
+  },
+  {
+    "categoria": "Dificultad Muy Alta",
+    "pregunta": "Obra a la que pertenece este fragmento: 'No es verdad, ángel de amor, que en esta apartada orilla...'",
+    "respuesta": "Don Juan Tenorio",
+    "incorrecta1": "La Tempestad",
+    "incorrecta2": "Macbeth",
+    "incorrecta3": "Hamlet \r"
+  },
+  {
+    "categoria": "Dificultad Muy Alta",
+    "pregunta": "Siglo en el que nació el artista conocido como Caravaggio",
+    "respuesta": "XVI",
+    "incorrecta1": "XX",
+    "incorrecta2": "X",
+    "incorrecta3": "XIV\r",
+    "imagen": "https://i.ibb.co/4P0QTLz/image.jpg",
+    "objectFit": "contain"
+  }
+]
